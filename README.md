@@ -4,7 +4,7 @@ A First Tech Challenge Library for those who want complete control using command
 
 
 
-[![](https://jitpack.io/v/Thermal-Equilibrium/homeostasis-FTC.svg)](https://jitpack.io/#Thermal-Equilibrium/homeostasis-FTC)
+[![](https://jitpack.io/v/charizardavi/vertices.svg)](https://jitpack.io/#charizardavi/vertices)
 ![Downloads](https://jitpack.io/v/Thermal-Equilibrium/homeostasis-FTC/month.svg)
 
 
