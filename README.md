@@ -1,8 +1,8 @@
-# homeostasis-FTC
+# Vertices
 
-A First Tech Challenge Controls library to go along with https://www.ctrlaltftc.com
+A First Tech Challenge Library for those who want complete control using commands, made by VERTEX
 
-For documentation check out: https://www.ctrlaltftc.com/homeostasis-by-thermal-equilibrium/what-is-homeostasis
+
 
 [![](https://jitpack.io/v/Thermal-Equilibrium/homeostasis-FTC.svg)](https://jitpack.io/#Thermal-Equilibrium/homeostasis-FTC)
 ![Downloads](https://jitpack.io/v/Thermal-Equilibrium/homeostasis-FTC/month.svg)
