@@ -1,8 +1,15 @@
 package com.VERTEX.vertices.commands;
 
 public class Command {
-    int main = 0;
-    public Command(int parameters) {
-		main = parameters;
+    public Command() {
 	}
+    public void init(){
+
+    }
+    public void loop(){
+
+    }
+    public void exit(){
+
+    }
 }
