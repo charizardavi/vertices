@@ -10,4 +10,9 @@ public class CustomCommand extends Command{
     public void init(){
         toRun.run();
     }
+
+    @Override
+    public boolean isFinished(){
+        return true;
+    }
 }

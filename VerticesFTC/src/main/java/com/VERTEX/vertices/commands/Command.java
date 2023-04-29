@@ -12,4 +12,10 @@ public class Command {
     public void exit(){
 
     }
+    public void end(){
+
+    }
+    public boolean isFinished(){
+        return true;
+    }
 }
