@@ -32,6 +32,10 @@ public class CommandRunner{
         }
     }
 
+    public void addCommand(Command inputAddCommand){
+        commands.add(inputAddCommand);
+    }
+
 
     public boolean isFinished(){
         return finished;
