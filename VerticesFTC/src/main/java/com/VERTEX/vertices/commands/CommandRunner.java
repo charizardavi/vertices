@@ -28,6 +28,7 @@ public class CommandRunner{
             }
             else{
                 commandIndex = commandIndex + 1;
+                commands.get(commandIndex).init();
             }
         }
     }
