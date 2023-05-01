@@ -23,5 +23,5 @@ repositories {
 
 <p>Then add the dependency: </p>
 
-```implementation 'com.github.charizardavi:vertices:0.0.1'```
+```implementation 'com.github.charizardavi:vertices:v0.0.4'```
 
